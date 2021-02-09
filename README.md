@@ -1,0 +1,2 @@
+# HANGMAN-GAME
+THIS IS A WORD GUESSING GAME CALLED AS HANGMAN without visual represenation
